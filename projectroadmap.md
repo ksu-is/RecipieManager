@@ -15,3 +15,7 @@ Goals for Project:
 ()Update current prices with current economy situation and make sure they are correctly updated in code
 
 ()Fix file errors and make sure non is missing
+
+11/18/2021
+
+Began adding code relating to cost & nutrition
