@@ -16,6 +16,11 @@ Goals for Project:
 
 ()Fix file errors and make sure non is missing
 
+
 11/18/2021
 
 Began adding code relating to cost & nutrition
+
+Goals:
+
+Add more Myplate information
