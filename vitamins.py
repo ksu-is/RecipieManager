@@ -1,3 +1,5 @@
+# Recomended daily intake of vitamins
+# Determined by the Institute of Medicine 
 while True:
     age = input('Enter your age: ')
     gender = input('Enter your gender. Enter m for male and f for female: ')
