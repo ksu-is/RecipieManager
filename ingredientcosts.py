@@ -1,3 +1,4 @@
+# calculates the price of each meal
 ing_list = [] 
 price_list = []
 while True:
