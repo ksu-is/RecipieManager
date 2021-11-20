@@ -9,7 +9,7 @@ while True:
 
     elif gender == 'f':
         print('Your meal contains',calories, 'calories, or',int(calories)/2000*100,'percent of the recomended daily amount.')
-    elif gender == 'q':
+    elif gender == 'q' or calories == 'q':
         break
     else:
         print('Invalid input!')
