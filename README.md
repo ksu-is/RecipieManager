@@ -12,7 +12,11 @@ We are looking forward to building a recipe manager through Python in Prof. Thom
 
 11/20/21
 -Added Sodium, Sat. Fat, and Sugar calcualtor
+
 -Added calorie calculator
+
 -Added Equipment Lister
+
 -Added Time of day filter
+
 -Added Dietary restriction filter
