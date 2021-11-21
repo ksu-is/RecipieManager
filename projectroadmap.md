@@ -24,8 +24,13 @@ Began adding code relating to cost & nutrition
 Goals For Sprint 2:
 
 (X) Add  Myplate information
+
 (X) Add functions that calculate information about nutritional values
+
 (X) Add code that helps website navigation organizing by 
+
 (X) price
+
 (X) allergy info
+
 (X) time of day
