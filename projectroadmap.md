@@ -27,7 +27,7 @@ Goals For Sprint 2:
 
 (X) Add functions that calculate information about nutritional values
 
-(X) Add code that helps website navigation organizing by 
+(X) Add code that helps website navigation organizing by:
 
 (X) price
 
