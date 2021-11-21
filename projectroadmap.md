@@ -21,6 +21,8 @@ Goals for Project:
 
 Began adding code relating to cost & nutrition
 
-Goals:
+Goals For Sprint 2:
 
-(X)Add more Myplate information
+(X)Add  Myplate information
+(X)Add functions that calculate information about nutritional values
+(X)Add code that helps website navigation organizing by price, allergy info, and time of day
