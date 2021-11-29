@@ -20,3 +20,6 @@ We are looking forward to building a recipe manager through Python in Prof. Thom
 -Added Time of day filter
 
 -Added Dietary restriction filter
+
+11/29/2021
+-Added Myplate calculator in HTML format. Aiming to build upon RedTiger26's foodmanager project
